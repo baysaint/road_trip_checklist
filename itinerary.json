@@ -1,0 +1,268 @@
+{
+  "days": [
+    {
+      "id": "day1",
+      "date": "17",
+      "month": "May",
+      "weekday": "SUN",
+      "title": "The Gateway to the Grisons",
+      "dayMapUrl": "https://maps.app.goo.gl/U2eLXrSkqui6fbUm7",
+      "dayMapImage": "day1road.jpg",
+      "items": [
+        {
+          "time": "09:00",
+          "activity": "Departure from Geneva",
+          "subtext": "Geneva to Walensee",
+          "description": "Load up the car and head East toward Zurich and Chur. The drive is roughly 4 hours to first major stop.",
+          "mapImage": "day1_9-12am.jpg",
+          "mapUrl": "https://maps.app.goo.gl/BsSMM1jkd1Cdor1U9",
+          "notes": [
+            "Road is 400KM, check for gas stations along the way if needed",
+            "Pack coffee and snacks for the drive"
+          ],
+          "locked": false
+        },
+        {
+          "time": "13:00",
+          "activity": "Walensee (Weesen)",
+          "subtext": "Seerenbach Falls Hike",
+          "description": "One of Switzerland's most dramatic fjord-like lakes. Follow the easy, paved lakeside path toward the hamlet of Betlis (45–60 mins each way).",
+          "mapImage": "day1_13-16.jpg",
+          "mapUrl": "https://maps.app.goo.gl/5muX1oXF24UHcCnd7",
+          "notes": [
+            "Look for parkspace alongside river. We can park closer to the falls depending on the time we have.",
+            "Bring a light rain jacket or a windbreaker. Even if it’s not raining, the \"spray\" from the falls at the viewing platform can be quite intense in May due to the high water volume!"
+          ],
+          "locked": false
+        },
+        {
+          "time": "16:00",
+          "activity": "Final Stretch to Flims",
+          "subtext": "Drive: 45 minutes",
+          "description": "Climb from the valley floor into the mountains. Landscape shifts to deep pine forests and massive limestone cliffs.",
+          "mapImage": "day1_16-17.jpg",
+          "mapUrl": "https://maps.app.goo.gl/djBYbfddSDnQTaqz7",
+          "notes": ["Scenic drive with potential for quick photo stops at overlooks",
+            "Arrive in Flims with plenty of daylight to settle in and explore"
+          ],
+          "locked": false
+        },
+        {
+          "time": "17:00",
+          "activity": "Check-in: TCS Camping Flims",
+          "subtext": "Via Prau la Selva 4, 7018 Flims",
+          "description": "Nestled in the Waldhaus (Forest House) district on the edge of the UNESCO World Heritage site (Tectonic Arena Sardona).",
+          "mapImage": "",
+          "mapUrl": "https://maps.app.goo.gl/kcxUjaaJsvj1iqtm9",
+          "notes": [
+            "Surrounded by ancient pine trees"
+          ],
+          "locked": false
+        },
+        {
+          "time": "18:00",
+          "activity": "Grocery Run: Coop Pronto",
+          "subtext": "Via Uletsch 2, 7031 Laax",
+          "description": "Only option for sunday shopping, need to go by car.",
+          "mapImage": "",
+          "mapUrl": "https://maps.app.goo.gl/Au6C8ak9JTbP2M2m7",
+          "notes": [
+            "For other days:",
+            "Volg in Flims Dorf for quick snacks and essentials",
+            "Coop Stenna in Flims Dorf for massive hauls",
+            "Coop Pronto at gas station is backup as its open till 10pm"
+          ],
+          "locked": false
+        },
+        {
+          "time": "19:00",
+          "activity": "Dinner: Pomodoro",
+          "subtext": "Via Waldhaus 24, 7018 Flims Waldhaus",
+          "description": "Casual, lively, and unpretentious. Famous for huge, thin-crust wood-fired pizzas and generous pasta portions.",
+          "mapImage": "",
+          "mapUrl": "https://maps.app.goo.gl/mu8TfFrWg9vBGeJs7",
+          "notes": [
+            "Good food only spot",
+            "Walking distance from camp"
+          ],
+          "locked": true
+        }
+      ]
+    },
+    {
+      "id": "day2",
+      "date": "18",
+      "month": "May",
+      "weekday": "MON",
+      "title": "The Turquoise Loop",
+      "dayMapUrl": "https://maps.app.goo.gl/ZYG8iXvJvFpc89mR6",
+      "dayMapImage": "day2road.jpg",
+      "items": [
+        {
+          "time": "08:30",
+          "activity": "Breakfast: Bistro Kaufmannfrauen",
+          "subtext": "Via Nova 1, 7018 Flims Waldhaus",
+          "description": "Cozy local favorite. Fuel up with high-quality coffee and a 'Regional Breakfast Board' featuring mountain cheeses.",
+          "mapImage": "",
+          "mapUrl": "https://maps.app.goo.gl/Ee5gaULWKgRKJVEf6",
+          "notes": [],
+          "locked": false
+        },
+        {
+          "time": "09:30",
+          "activity": "The 'Grand Loop' Hike",
+          "subtext": "10–12km Loop Trail",
+          "description": "Flims Waldhaus → Caumasee → Conn → Crestasee → Flims Waldhaus. Easy, well-maintained forest paths.",
+          "mapImage": "",
+          "mapUrl": "",
+          "notes": [
+            "Ancient Flims rockslide area",
+            "Pack swimwear and towels"
+          ],
+          "locked": false
+        },
+        {
+          "time": "10:00",
+          "activity": "Caumasee: The First Swim",
+          "subtext": "Caribbean of the Alps",
+          "description": "Deep vibrant turquoise water fed by underground springs. Bracing and incredibly refreshing (approx 15°C).",
+          "mapImage": "",
+          "mapUrl": "",
+          "notes": [
+            "Swim toward the small island in the center"
+          ],
+          "locked": false
+        },
+        {
+          "time": "12:00",
+          "activity": "'Il Spir' Viewpoint",
+          "subtext": "Rhine Gorge Overlook",
+          "description": "Triangular viewing platform 400 meters directly above the Rhine river. Known as the 'Swiss Grand Canyon'.",
+          "mapImage": "",
+          "mapUrl": "",
+          "notes": [
+            "White limestone cliffs",
+            "Winding river views"
+          ],
+          "locked": false
+        },
+        {
+          "time": "13:00",
+          "activity": "Lunch: Restaurant Conn",
+          "subtext": "Conn 1, 7017 Flims",
+          "description": "Rustic forest lodge. Famous for 'Trinser Birnenravioli' (Pear Ravioli)—sweet pear filling with salty butter, cinnamon, and bacon.",
+          "mapImage": "",
+          "mapUrl": "",
+          "notes": [
+            "Accessible only by foot or horse carriage"
+          ],
+          "locked": true
+        },
+        {
+          "time": "14:30",
+          "activity": "Crestasee: The Second Swim",
+          "subtext": "Crystal Clear Water",
+          "description": "Smaller and shallower than Caumasee. Very peaceful. The water is so clear you can see the trout swimming at the bottom.",
+          "mapImage": "",
+          "mapUrl": "",
+          "notes": [
+            "Warms up faster in the afternoon sun"
+          ],
+          "locked": false
+        },
+        {
+          "time": "19:00",
+          "activity": "Dinner: Restaurant Chesa",
+          "subtext": "Via Nova 34, 7017 Flims",
+          "description": "Romantic evening in a traditional Alpine building with high wood ceilings and candlelight. Known for generous, hearty servings.",
+          "mapImage": "",
+          "mapUrl": "",
+          "notes": [
+            "Order Capuns Sursilvans or Cordon Bleu",
+            "Hearty 'Big Portion' promise"
+          ],
+          "locked": true
+        }
+      ]
+    },
+    {
+      "id": "day3",
+      "date": "19",
+      "month": "May",
+      "weekday": "TUE",
+      "title": "The Eiger Grand Finale",
+      "dayMapUrl": "https://maps.app.goo.gl/XBnjHzLX47VkeKm19",
+      "dayMapImage": "day3road.jpg",
+      "items": [
+        {
+          "time": "09:00",
+          "activity": "Departure from Flims",
+          "subtext": "The Scenic Crossing (~3.5h Drive)",
+          "description": "Drive west toward the Bernese Oberland. Route passes through Chur and over the Brünig Pass with views of Lake Lungern.",
+          "mapImage": "day3_9-13.jpg",
+          "mapUrl": "https://maps.app.goo.gl/2KpB7yjCxH1tx2Xh7",
+          "notes": [
+            "Check Eigergletscher Webcam before leaving",
+            "Photo op at Lake Lungern pull-outs",
+            "Target arrival at Terminal: 12:30",
+            "Selected alternative mountain road which is looking different than the day plan"
+          ],
+          "locked": false
+        },
+        {
+          "time": "12:30",
+          "activity": "Eiger & Fallbodensee",
+          "subtext": "The Eiger Express Experience",
+          "description": "Ascent via the Eiger Express gondola (15 mins) alongside the North Face. Walk the 'Eiger Walk' downhill to the mirror reservoir.",
+          "mapImage": "day3_13-16.jpg",
+          "mapUrl": "https://maps.app.goo.gl/imnjBwrd3ZJF9Mf1A",
+          "notes": [
+            "Park at: Grindelwald Terminal Parkhaus",
+            "Buy tickets at Jungfrau.ch to skip lines",
+            "20-min downhill walk to Fallbodensee",
+            "Optional: walk 20-25 min more downhill if we'd like to eat lunch at Kleine Scheidegg"
+        
+          ],
+          "locked": false
+        },
+        {
+          "time": "14:45",
+          "activity": "(IF NOT KLEINE SCHEIDEGR) Lunch in Grindelwald",
+          "subtext": "Relaxed Mountain Meal",
+          "description": "90-minute window for a proper sit-down meal. Choose between the high-quality Market Hall at the Terminal or a 5-min drive into the Village.",
+          "mapImage": "",
+          "mapUrl": "",
+          "notes": [
+            "Last chance for mountain Rösti",
+            "Traditional Alpine vibe before leaving",
+            "Might miss the lunch window, as for many restaurants they are only open from 11:30-14:00"
+          ],
+          "locked": false
+        },
+        {
+          "time": "16:15",
+          "activity": "Final Departure for Geneva",
+          "subtext": "The Home Stretch (2h 45m)",
+          "description": "Strategic departure to beat the Bern rush hour and the Lausanne-Geneva evening traffic.",
+          "mapImage": "day3_16-19.jpg",
+          "mapUrl": "https://maps.app.goo.gl/XqmgvCGv9Zp1zJ1G6",
+          "notes": [
+            "Route: Interlaken → Bern → Geneva",
+            "Last look at Lake Brienz and Lake Thun"
+          ],
+          "locked": false
+        },
+        {
+          "time": "19:00",
+          "activity": "Arrival in Geneva",
+          "subtext": "Home",
+          "description": "Home exactly on schedule. 10th Anniversary trip capped off with the most iconic mountain views in Switzerland.",
+          "mapImage": "",
+          "mapUrl": "",
+          "notes": [],
+          "locked": false
+        }
+      ]
+    }
+  ]
+}
